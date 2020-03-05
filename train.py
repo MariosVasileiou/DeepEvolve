@@ -5,7 +5,7 @@ Based on:
     https://github.com/fchollet/keras/blob/master/examples/mnist_mlp.py
 and also on 
     https://github.com/fchollet/keras/blob/master/examples/mnist_cnn.py
-
+Modified by Marious.
 """
 
 #import keras
